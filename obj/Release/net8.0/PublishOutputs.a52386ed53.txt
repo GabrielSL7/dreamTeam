@@ -1,0 +1,5 @@
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\publish\dreamTeam.exe
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\publish\dreamTeam.dll
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\publish\dreamTeam.deps.json
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\publish\dreamTeam.runtimeconfig.json
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\publish\dreamTeam.pdb

@@ -1,0 +1,14 @@
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\dreamTeam.exe
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\dreamTeam.deps.json
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\dreamTeam.runtimeconfig.json
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\dreamTeam.dll
+C:\Users\Gabriel\dreamTeam\bin\Release\net8.0\dreamTeam.pdb
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.AssemblyInfoInputs.cache
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.AssemblyInfo.cs
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.dll
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\refint\dreamTeam.dll
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.pdb
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\dreamTeam.genruntimeconfig.cache
+C:\Users\Gabriel\dreamTeam\obj\Release\net8.0\ref\dreamTeam.dll
