@@ -4,20 +4,24 @@ Este é um aplicativo feito em C# (.NET) que permite que o usuário monte seu pr
 
 ## ✅ Funcionalidades
 
-- Exibe os 20 melhores jogadores da história
-- Permite selecionar 5 jogadores únicos
-- Monta e exibe o time personalizado do usuário
+- Exibe os 20 melhores jogadores da história  
+![Lista de Jogadores](./imagens/lista-jogadores.png)
+
+- Permite selecionar 5 jogadores únicos  
+![Time Ideal](./imagens/time-ideal.png)
+
+- Monta e exibe o time personalizado do usuário  
+![Dream Team](./imagens/dreamTeam.png)
 
 ## 💻 Como usar
 
-1. Execute o arquivo `.exe` ou `.dll` dentro da pasta publicada
-2. Siga as instruções no terminal para selecionar seus jogadores
+1. Execute o arquivo `.exe` ou `.dll` dentro da pasta publicada  
+2. Siga as instruções no terminal para selecionar seus jogadores  
 3. Veja seu time montado no final 🎉
-
 
 ## ⬇️ Download
 
-👉 [Clique aqui para baixar a versão portátil do programa]
+👉 [Clique aqui para baixar a versão portátil do programa](./dist/dreamTeam.zip)
 
 ## 🔗 Site publicado via GitHub Pages
 
