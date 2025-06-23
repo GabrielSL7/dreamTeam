@@ -11,7 +11,7 @@ Este é um aplicativo feito em C# (.NET) que permite que o usuário monte seu pr
 ![Time Ideal](./imagens/time-ideal.png)
 
 - Monta e exibe o time personalizado do usuário  
-![Dream Team](./imagens/dreamTeam.png)
+![Dream Team](./imagens/dream-Team.png)
 
 ## 💻 Como usar
 
