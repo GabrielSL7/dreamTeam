@@ -17,7 +17,7 @@ Este é um aplicativo feito em C# (.NET) que permite que o usuário monte seu pr
 
 ## ⬇️ Download
 
-👉 [Clique aqui para baixar a versão portátil do programa](./dist/TimeDosSonhos.zip)
+👉 [Clique aqui para baixar a versão portátil do programa](./dist/dreamTeam.zip)
 
 ## 🔗 Site publicado via GitHub Pages
 
